@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting to Palestine Day Festival</title>
+
+  <!-- Google site verification -->
+  <meta name="google-site-verification" content="Ffx-tGJbyzyEZmSNcrPDYXmJQEoYl9BqwYhMr45PcvM" />
+
+  <!-- Description -->
+  <meta name="description" content="Palestine Day The Land Remains Festival in Kitchener – July 13, 2025 at Carl Zehr Square. 1:00PM - 9:00PM. Food, vendors, Palestine exhibition, performances, kids' activities, and more!" />
+
+  <!-- Event Structured Data -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Palestine Day The Land Remains",
+  "startDate": "2025-07-13T13:00:00-04:00",
+  "endDate": "2025-07-13T21:00:00-04:00",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "isAccessibleForFree": true,
+  "location": {
+    "@type": "Place",
+    "name": "Carl Zehr Square",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "200 King St W",
+      "addressLocality": "Kitchener",
+      "addressRegion": "ON",
+      "postalCode": "N2G 4G7",
+      "addressCountry": "CA"
+    }
+  },
+  "image": [
+    "https://kwpalestinedayfestival.my.canva.site/_assets/media/775e7c425d2c622c551e0be3fbc287a5.jpg"
+  ],
+  "description": "Palestine Day The Land Remains Festival in Kitchener – July 13, 2025 at Carl Zehr Square. 1:00PM - 9:00PM. Food, vendors, Palestine exhibition, performances, kids' activities, and more!",
+  "organizer": [
+    {
+      "@type": "Organization",
+      "name": "Palestinian Youth Movement KW",
+      "url": "http://linktr.ee/KWCPalestine/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Sporas Scattered",
+      "url": "https://linktr.ee/sporasscattered"
+    }
+  ],
+  "performer": [
+    {
+      "@type": "PerformingGroup",
+      "name": "Event Opening with Drumming Circle"
+    },
+    {
+      "@type": "PerformingGroup",
+      "name": "Gaza Will Rise Presentation"
+    },
+    {
+      "@type": "DanceGroup",
+      "name": "Mona Ayash Dabke Group"
+    },
+    {
+      "@type": "MusicGroup",
+      "name": "PYM Choir"
+    },
+    {
+      "@type": "Person",
+      "name": "Oud Performer"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palestine%20Day%20The%20Land%20Remains&dates=20250713T170000Z/20250714T010000Z&details=Palestine%20Day%20The%20Land%20Remains%20Festival%20in%20Kitchener%20%E2%80%93%20Food%2C%20vendors%2C%20Palestine%20exhibition%2C%20performances%2C%20kids%27%20activities%2C%20and%20more%21&location=Carl%20Zehr%20Square%2C%20200%20King%20St%20W%2C%20Kitchener%2C%20ON%2C%20N2G%204G7%2C%20Canada"
+  },
+  "url": "https://test.amir.day/"
+}
+</script>
+  
+  <!-- Delay redirect by 5 seconds -->
+  <meta http-equiv="refresh" content="5; URL='https://test.amir.day/'" />
+</head>
+<body>
+  <p>Redirecting to <a href="https://test.amir.day/">test.amir.day</a>...</p>
+</body>
+</html>
